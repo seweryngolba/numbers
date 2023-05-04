@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  margin: 20px auto;
+  padding: 50px;
+  background: lightcoral;
+  color: white;
+  border: none;
+  display: block;
+  width: 550px;
+  border-radius: 10px;
+  font-size: 60px;
+}
+
+button:hover {
+  background: lightseagreen;
+  cursor: pointer;
+}
+
+div {
+  margin-top: 30px;
+  height: 400px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 120px;
+  text-align: center;
+}
